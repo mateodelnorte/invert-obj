@@ -1,0 +1,15 @@
+{
+  "name": "invert-obj",
+  "version": "1.0.0",
+  "description": "invert an object, swapping keys for values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mattwalters5@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
